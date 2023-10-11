@@ -1,1 +1,1 @@
-# Garbage test with ResNel Model
+# Garbage test with ResNet Model
