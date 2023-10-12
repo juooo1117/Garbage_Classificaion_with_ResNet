@@ -1,1 +1,1 @@
-# Garbage test with ResNet Model
+# Garbage Classificaion with ResNet Model
